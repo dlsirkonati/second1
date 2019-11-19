@@ -1,2 +1,0 @@
-# second1
-FEW SIMPLE CODES
